@@ -1,16 +1,52 @@
-## Hi there 👋
+# Saket Atreya
 
-<!--
-**saketatreya/saketatreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+I work on reinforcement learning and intelligent systems, with a broader interest in how **behavior emerges from structure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits across:
+
+- Reinforcement Learning (RL, decision-making systems)
+- Systems & infrastructure
+- Cybernetics and control
+- Political economy & philosophy of systems
+
+I’m interested in the overlap between:
+- learning systems (agents)
+- economic systems (incentives)
+- political systems (power)
+
+All of them, in different ways, **optimize behavior under constraints**.
+
+---
+
+## ⚙️ Current Focus
+
+- Reinforcement learning (policy optimization, environments, scaling)
+- RL as a general model of control
+
+---
+
+## 🧪 Projects
+
+- RL experiments (custom environments, policy methods)
+- Systems tools / infra for experimentation
+
+---
+
+## 🧰 Stack
+
+- Python (PyTorch, RL libraries)
+- C/C++ (performance-critical components)
+- Linux, low-level tooling
+- Git
+
+---
+
+## 📚 Interests
+
+- Deleuze & Guattari  
+- Marx & political economy  
+- Cybernetics (Wiener, Beer)  
+- Complex systems  
+
