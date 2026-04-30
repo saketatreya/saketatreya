@@ -1,10 +1,8 @@
 # Saket Atreya
 
-## 🧠 About Me
+## About Me
 
 I work on reinforcement learning and intelligent systems, with a broader interest in how **behavior emerges from structure**.
-
-My work sits across:
 
 - Reinforcement Learning (RL, decision-making systems)
 - Systems & infrastructure
@@ -18,7 +16,7 @@ I’m interested in the overlap between:
 
 All of them, in different ways, **optimize behavior under constraints**.
 
-## 📚 Interests
+## Interests
 
 - Deleuze & Guattari  
 - Marx & political economy  
